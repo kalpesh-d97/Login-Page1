@@ -46,7 +46,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Registration Page'),
+        title: Text('Login Page'),
         titleTextStyle: TextStyle(
           color: Color.fromARGB(255, 114, 255, 255),
           fontSize: 30,
